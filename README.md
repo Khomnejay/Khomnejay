@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Khomnejay
-- 👀 I’m interested in ethical hacking.
-- 🌱 I’m currently learning class 11
+
 
 
 
